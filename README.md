@@ -1,2 +1,3 @@
 # SpaceX
-Develop base on Node-Apollo-GraphQL tutorial at Traversy Media chanel
+Develop base on React-Apollo-GraphQL tutorial at Traversy Media chanel
+Heroku deploy https://infinite-cliffs-86379.herokuapp.com/
